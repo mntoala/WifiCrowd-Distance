@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "distanciapp",
+  "private_key_id": "d9b9044f6e1236d895cf1d31f04df232e2a7aa50",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDV28QPyVpzQmkB\n/uHriYg40ndPEx8s6cU0lLEaCPk2gaVOcEj6k2t+iVhtQfweGLAoJuWrbior0F5B\nejrLnOIBBrnzcytqCmHKyFwOMwkl3odjY5xS2zD9Gba8Lv+GERkuJfj4if0b7isx\nMRM0i/znLTXDZHtz56plRd+dO2mzKoNvxuU1x5d1EbvZ9Q4P7cpviRKDRRRQylvw\nmVxt3fMyo0YVZtTaOGrxlT/kMoZo2Y5WX3VPadI+W5R2IKrzSoq7Fn21vKMFi5+j\n86eeshbY4sJvCZmNMwSpRYZM+CyKrnAuCfCcc4iyyR5H/l9kjvveGGaMd/3IS90j\nRMVEC3ldAgMBAAECggEACcKY5RuMbDw4rKWkS+qf8+/vEAXQY21b2bV7i7OjJBCw\nqa7INd9qhYDhL0NWrUz1JS/5RWSmug8tbhGVA1vqmJ9k9y5nadSFeArC4McFgNvy\nE+Ak70cfqj11MIt4j/bRzmBfR4CMs6yf/gO+W6ST6z0N+hfo5nZJOYwB05w1i76s\nmo9T7oqXmPqP7yGwH4kTIQ+bGSq2oiT1tvOJ266zH1VZUwQzPxygqu1/qM0SmBBO\ndVanpWeceDRUYkzChJkdEVIl5fAeCd3EzSHdrmpjyJm2jJrPWGxpwE9LHReaDuUw\nNMItZefHhC1mkFZKEenpU3Jcdi+BZTzcups+dSShwQKBgQDuSL0YyLQrPkmKYU7v\n91Y/6/VgOA10P5gde2MO2KRwQnAm4aHwRbUvw8r9djXH6beBwpxgj5em5pHbNOZz\nW0ZvEIA67AFMw0mfiftfBvLGavAh7JgEOylsDMHYf9OUluOzccEv9V1HGWm5mlQf\nvUW0IouiFeiVnce8a1pkj7BwsQKBgQDlwiImTo+aIIPQcDUz0Rt20Q8EpqTFDeSg\nNZjVZT8XbyzRSLGc1DPSikx6NW9mq2RATdNCRzPWn98983/RSHLj6PazwnSOUl2A\n1mHVBaOQ4THza025rSBDN1fSDvxwXfz4T41L/H2c7W3hUezNi2KuEVaC2rQTSF1x\npYQXk9LebQKBgEGhkUv5Q/7BKjpOMRLRWlVC5ZP5/GKvfXNpX9BgBXLSKdfbv+HR\nIWWllQyY+Zk1m5DHDJFgG5Ih4byx5mORmWXP8rHH/VeqVmX1+GGlJUtXewqtAvXv\nYapcHSxHkPxVTyRGycIu3+FMc51mj5Mqa7+A4Frlk+lZywDvxLb8CMoRAoGADm7s\noEVtJfyG61AxN2kadZNagytIzIw74YicakNq/Djist8DMVvvSXmgpki3D9cSfCun\natF4QzJV3tluHSKU/RZEcTR1B//Kme5dxPkOtmo/LhB+mHx0u2Q9oxeH6jMtUhgF\nQ1HAPlx3+6Ce5Kat80tpiNzeVRvFqv7/1k9V/t0CgYBLAqEvv6cjwxnaGS4K0P1k\nqtdsUfxLbuBEIiuiiDwAFIYCXRVUITPxuwiWC5XPOdG3Hw2g6yhSfNrXXwrOZi4d\n34aNVXm9kq+Ph1t7wj49pWtNsg+1WT29JGZLi47hxxVfWUeopDi7O1aVZOkVDL4/\nQNrUrnTDrzC2t07ghribzg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-6z1mp@distanciapp.iam.gserviceaccount.com",
+  "client_id": "105164130136096629307",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-6z1mp%40distanciapp.iam.gserviceaccount.com"
+}
