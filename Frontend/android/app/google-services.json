@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1075536974098",
+    "project_id": "distanciapp",
+    "storage_bucket": "distanciapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075536974098:android:a89693e0e0156797f923cb",
+        "android_client_info": {
+          "package_name": "com.example.wiconce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075536974098-q27fshhq0lmne16u90aso0ua0jdlqrfb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wiconce",
+            "certificate_hash": "844fecfa86e802d0424b2e97435fbf99e39350c7"
+          }
+        },
+        {
+          "client_id": "1075536974098-c8oire7mn11pr4qcsmtm25ch7irdsn9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7VfDkO33FXt7fECvXIXLwUN7ZZR4L2HI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075536974098-c8oire7mn11pr4qcsmtm25ch7irdsn9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
